@@ -1,0 +1,54 @@
+Thema
+01 / 01 / 08
+16.02.26
+Asymptotic Analysis, O-Notation, Rekursion
+02 / 02 / 09
+23.02.26
+Stack, Queues, Deques, Iteratoren
+03 / 03 / 10
+02.03.26
+Allgemeine- und Binär-Bäume, Speicherverfahren für Bäume, Baumtraversierungen
+04 / 04 / 11
+09.03.26
+Priority-Queue, Heap, Adaptable Priority-Queue
+05 / 05 / 12
+16.03.26
+Set und MultiSet, Map und Multimap, Hashtable
+06 / 06 / 13
+23.03.26
+Binary-Search-Tree
+07 / 07 / 14
+30.03.26
+AVL-Tree, Splay-Tree
+08 /      / 15
+06.04.26
+Ostermontag (kein Unterricht)
+09 / 08 / 16
+13.04.26
+Merge-Sort, Quick-Sort
+10 / 09 / 17
+20.04.26
+Sorting Lower-Bound, Radix-Sort
+11 / 10 / 18
+27.04.26
+Graphen: Grundlagen, Speicherverfahren für Graphen, Aufspannende Bäume und Wälder / Testat 1
+12 / 11 / 19
+04.05.26
+Graphen-Traversierungen, Depth-First-Search, Breadth-First-Search
+13 / 12 / 20
+11.05.26
+Gerichtete Graphen (Digraphs), Directed-Acyclic-Graph DAG, Topologische Sortierung / Testat 2
+14 / 13 / 21
+18.05.26
+Gewichtete Graphen, Kürzester Pfad, Shortest-Path-Tree, Modul-Abschluss
+15 / 14 / 22
+25.05.26
+Pfingstmontag (kein Unterricht)
+Version: 12.02.26
+Algorithmen & Datenstrukturen ICS/AIML
+Semesterplan FS26
+Semesterwoche 
+Vorlesungswoche
+Kalenderwoche
+Vorlesungs-
+Datum
